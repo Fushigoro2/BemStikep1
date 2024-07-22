@@ -12,6 +12,11 @@ body {
 a {
     color: rgb(0, 0, 0);
 }
+
+.header {
+    margin-top: 50px;
+}
+
 .header h2 {
     color: rgb(75, 4, 4);
     font-size: 24px;
