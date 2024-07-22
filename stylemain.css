@@ -1,0 +1,42 @@
+/* Style */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-align: center;
+    margin: 2px;
+    padding: 1px;
+    background: #ffffff;
+}
+
+a {
+    color: rgb(0, 0, 0);
+}
+.header h2 {
+    color: rgb(75, 4, 4);
+    font-size: 24px;
+}
+
+.header a.a,
+.header a.b,
+.header a.c,
+.header a.d,
+.header a.e {
+    display: block;
+    margin: auto;
+    width: 400px;
+    background-color: rgb(207, 207, 207);
+    padding: 1%;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.header img {
+    width: 180px;
+    border-radius: 100%;
+}
+
+.header a:hover {
+    text-decoration: underline;
+    background-color: red;
+}
